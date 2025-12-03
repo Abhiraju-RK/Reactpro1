@@ -1,0 +1,3 @@
+function StudentList({students}){
+    return
+}
